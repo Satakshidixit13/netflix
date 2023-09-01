@@ -44,7 +44,7 @@ body{
 .root{
     background-size: cover;
     background-position: center;
-    background-image: radial-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.8)),url("../css//Netflix-Background.jpg");
+    background-image: radial-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.8)),url("./Netflix-Background.jpg");
 }
 .main-titles-container{
     color: white;
